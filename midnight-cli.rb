@@ -1,6 +1,4 @@
 require 'time'
-require 'Midnight'
-#puts("Midnight CLI started");
-
+require File.join(File.dirname(__FILE__), 'midnight', 'lib', 'midnight.rb')
 a = Midnight.parse(ARGV[0]).to_s
-puts(a);
+puts(a)
