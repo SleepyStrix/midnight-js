@@ -4,8 +4,7 @@ Simple node.js wrapper for bluefuton's midnight library for converting english t
 ##Setup:
 1. Install Ruby for your OS. [https://www.ruby-lang.org]
 2. Install Midnight so that the folder `'midnight'` is in the same directory as the file `'midnight-cli.rb'`
-You can get it at the original repo here: https://github.com/bluefuton/midnight
-or my fork here: https://github.com/sleepystrix/midnight
+You can get my fork of midnight for this here: https://github.com/sleepystrix/midnight
 
 ##Usage:
 ```
